@@ -12,4 +12,4 @@
  * Google Cybersecurity - Professional Certificate (Ongoing)
 
 # Cloud Computing
- * Google Cloud Foundations (NPTEL) (Ongoing)
+ * Google Cloud Computing Foundations (NPTEL) (Ongoing)
