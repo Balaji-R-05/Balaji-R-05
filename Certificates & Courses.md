@@ -10,3 +10,6 @@
 -->
 # Cyber Security
  * Google Cybersecurity - Professional Certificate (Ongoing)
+
+# Cloud Computing
+ * Google Cloud Foundations (NPTEL) (Ongoing)
