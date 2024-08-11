@@ -63,12 +63,13 @@ Hi, I'm a 19-year-old engineering undergraduate pursuing a B.Tech in Information
   - Role: Lead Developer
  --> 
 ## 📈 GitHub Stats
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Balaji-R-05&show_icons=true&theme=radical" alt="Balaji's GitHub stats" />
-  <br>
-  ![LeetCode Stats](https://leetcard.jacoblin.cool/Balaji_R?theme=transparent&font=Noto%20Sans)
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Balaji-R-05&layout=compact" alt="Top Langs" />
+  <br>
+  <img src="https://leetcard.jacoblin.cool/Balaji_R?theme=transparent&font=Noto%20Sans" alt="LeetCode Stats" />
 </p>
+
 
 ![](https://komarev.com/ghpvc/?username=Balaji-R-05&color=red)
 
