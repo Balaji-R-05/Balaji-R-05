@@ -6,7 +6,7 @@ Hi, I'm a 19-year-old engineering undergraduate pursuing a B.Tech in Information
 
 ## 🔧 Skills
 - **Languages:** Python, C, JAVA
-- **Databases:** MySQL
+- **Databases:** MySQL, MongoDb
 - **Web Development:** HTML5, CSS3
 
 <p align="left">
