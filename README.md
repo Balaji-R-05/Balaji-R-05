@@ -68,7 +68,6 @@ Hi, I'm a 19-year-old engineering undergraduate pursuing a B.Tech in Information
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Balaji-R-05&layout=compact" alt="Top Langs" />
   <br>
   <img src="https://leetcard.jacoblin.cool/Balaji_R_0204?theme=forest&font=Noto%20Sans" alt="LeetCode Stats" />
-  <img src="https://skillrack.com/23it1273@stjosephstech"
 </p>
 
 
