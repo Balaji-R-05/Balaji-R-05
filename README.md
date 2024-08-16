@@ -11,7 +11,7 @@ Hi, I'm a 19-year-old engineering undergraduate pursuing a B.Tech in Information
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,java,mysql,html,css,mongodb" />
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,java,mysql,html,css,mongodb" />
   </a>
 </p>
 
