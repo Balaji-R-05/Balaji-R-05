@@ -13,3 +13,6 @@
 
 # Cloud Computing
  * Google Cloud Computing Foundations (NPTEL) (Ongoing)
+
+# Artificial Intelligence
+ * IBM AI Developer
