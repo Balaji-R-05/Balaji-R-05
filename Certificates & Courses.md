@@ -11,8 +11,8 @@
 # Cyber Security
  * Google Cybersecurity - Professional Certificate (Ongoing)
 
-# Cloud Computing
+<!--# Cloud Computing
  * Google Cloud Computing Foundations (NPTEL) (Ongoing)
-
+-->
 # Artificial Intelligence
  * IBM AI Developer
