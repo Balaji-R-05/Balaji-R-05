@@ -68,7 +68,7 @@ Hi, I'm a 19-year-old engineering undergraduate pursuing a B.Tech in Information
   <img src="https://leetcard.jacoblin.cool/Balaji_R_0204?theme=forest&font=Noto%20Sans" alt="LeetCode Stats" />
 </p>
 
-
+![](https://raw.githubusercontent.com/Balaji-R-05/github-stats/master/generated/overview.svg#gh-light-mode-only)
 ![](https://komarev.com/ghpvc/?username=Balaji-R-05&color=red)
 
 <!---
