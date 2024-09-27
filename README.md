@@ -6,12 +6,12 @@ Hi, I'm a 19-year-old engineering undergraduate pursuing a B.Tech in Information
 
 ## 🔧 Skills
 - **Languages:** Python, C, JAVA, C++
-- **Databases:** MySQL, MongoDb
+- **Databases:** MySQL
 - **Web Development:** HTML5, CSS3
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,java,mysql,mongodb,html,css,aws" />
+    <img src="https://skillicons.dev/icons?i=python,c,java,mysql,html,css,aws" />
   </a>
 </p>
 
