@@ -27,8 +27,17 @@ I'm a 19-year-old engineering undergraduate pursuing a B.Tech in Information Tec
 
 <h3 align="center">🌱 Currently Learning</h3>
 <p align="center">
-- <b>Machine Learning Algorithms:</b> Introduction to Machine Learning                <b>DSA (Python):</b> Solving problems on LeetCode, GFG, and Skillrack<br>
+- <b>Machine Learning Algorithms:</b> Introduction to Machine Learning<br>
+- <b>DSA (Python):</b> Solving problems on LeetCode, GFG, and Skillrack<br>
+- <b>Deep Learning:</b> Exploring neural networks, CNNs, and RNNs using TensorFlow and PyTorch<br>
+- <b>AI Ethics:</b> Understanding the ethical implications of AI and machine learning technologies<br>
+- <b>Cloud Computing:</b> Learning AWS and deploying models and applications in the cloud<br>
+- <b>React.js:</b> Building web applications with React and understanding front-end frameworks<br>
+- <b>Web Development:</b> Mastering HTML, CSS, JavaScript, and server-side development with Node.js and Django<br>
+- <b>Data Visualization:</b> Using tools like Tableau, Matplotlib, and Seaborn for data analysis and presentation<br>
+- <b>DevOps:</b> Understanding containerization with Docker and orchestration with Kubernetes<br>
 </p>
+
 
 ---
 
