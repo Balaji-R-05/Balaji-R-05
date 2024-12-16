@@ -31,6 +31,9 @@ I'm a 19-year-old engineering undergraduate pursuing a B.Tech in Information Tec
 </p>
 
 ![LeetCode Heatmap](https://leetcode-stats.vercel.app/api?username=Balaji_R_0204&theme=dark)
+### 🔥 **LeetCode Heatmap**
+[![LeetCode Heatmap](https://leetcode-stats-api.herokuapp.com/heatmap?username=Balaji_R_0204&theme=dark)](https://leetcode.com/Balaji_R_0204/)
+
 
 
 ### 🤝 **Connect with Me**
