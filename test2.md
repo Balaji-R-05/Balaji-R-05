@@ -69,3 +69,8 @@ I'm a 19-year-old engineering undergraduate pursuing a B.Tech in Information Tec
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Balaji-R-05&color=red" alt="Profile Views" />
 </div>
+
+<!---
+Balaji-R-05/Balaji-R-05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
