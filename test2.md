@@ -15,3 +15,7 @@ I'm a 19-year-old engineering undergraduate pursuing a B.Tech in Information Tec
     <img src="https://skillicons.dev/icons?i=python,java,c,cpp,mysql,html,css,aws,&theme=dark&perline=20" />
   </a>
 </p>
+
+## 🌱 Currently Learning
+- **Machine Learning Algorithms :** Introduction to Machine Learning
+- **DSA (Python) :** Solvng problems on LeetCode,GFG and Skillrack
