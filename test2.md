@@ -23,6 +23,7 @@ I'm a 19-year-old engineering undergraduate pursuing a B.Tech in Information Tec
 ### 📊 GitHub & LeetCode Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Balaji-R-05&show_icons=true&theme=radical&hide_border=true" alt="Balaji's GitHub Stats" /> </p> 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Balaji-R-05&layout=compact&langs_count=6&theme=radical&hide_border=true" alt="Top Languages" /> </p>
+
 ### 🚀 LeetCode Stats & Heatmap
 <div align="center"> <img src="https://leetcode-stats.vercel.app/api?username=Balaji_R_0204&theme=dark" alt="LeetCode Stats" /> </div> <p align="center"> <img src="https://leetcard.jacoblin.cool/Balaji_R_0204?ext=heatmap&theme=dark" alt="LeetCode Heatmap" /> </p>
 
