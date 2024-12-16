@@ -31,12 +31,12 @@ I'm a 19-year-old engineering undergraduate pursuing a B.Tech in Information Tec
   <li><b>Machine Learning Algorithms:</b> Deep diving into supervised and unsupervised learning algorithms, with a focus on practical implementation.</li>
   <li><b>Data Structures and Algorithms (Python):</b> Solving complex problems on platforms like LeetCode, GFG, and Skillrack, improving problem-solving and coding skills.</li>
   <li><b>Deep Learning & Neural Networks:</b> Understanding CNNs, RNNs, and GANs, and building models using frameworks like TensorFlow and PyTorch.</li>
-  <li><b>AI Ethics:</b> Gaining insight into the ethical implications and societal impacts of AI and automation.</li>
-  <li><b>Cloud Computing (AWS):</b> Learning cloud technologies to deploy scalable AI models and applications using AWS.</li>
-  <li><b>Full-Stack Web Development:</b> Building interactive web applications with React.js, Node.js, and integrating with databases.</li>
   <li><b>Data Visualization:</b> Mastering data presentation tools like Tableau, Seaborn, and Matplotlib to transform complex data into actionable insights.</li>
-  <li><b>DevOps and Containerization:</b> Understanding Docker, Kubernetes, and CI/CD pipelines for efficient development and deployment.</li>
-  <li><b>Version Control (Git):</b> Becoming proficient in using Git for collaboration, managing code versions, and working on open-source projects.</li>
+  <!--<li><b>DevOps and Containerization:</b> Understanding Docker, Kubernetes, and CI/CD pipelines for efficient development and deployment.</li>
+  <li><b>Full-Stack Web Development:</b> Building interactive web applications with React.js, Node.js, and integrating with databases.</li>
+  <li><b>AI Ethics:</b> Gaining insight into the ethical implications and societal impacts of AI and automation.</li>
+    <li><b>Cloud Computing (AWS):</b> Learning cloud technologies to deploy scalable AI models and applications using AWS.</li>
+  <li><b>Version Control (Git):</b> Becoming proficient in using Git for collaboration, managing code versions, and working on open-source projects.</li>-->
 </ul>
 
 
