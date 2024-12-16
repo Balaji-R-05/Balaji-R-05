@@ -46,3 +46,7 @@ I'm a 19-year-old engineering undergraduate pursuing a B.Tech in Information Tec
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=Balaji-R-05&color=red" />
+</div>
