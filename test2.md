@@ -27,7 +27,7 @@ I'm a 19-year-old engineering undergraduate pursuing a B.Tech in Information Tec
 
 <h3 align="center">🌱 Currently Learning</h3>
 <p align="center">
-- <b>Machine Learning Algorithms:</b> Introduction to Machine Learning<br>
+- <b>Machine Learning Algorithms:</b> Introduction to Machine Learning
 - <b>DSA (Python):</b> Solving problems on LeetCode, GFG, and Skillrack
 </p>
 
