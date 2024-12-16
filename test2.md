@@ -67,7 +67,7 @@ I'm a 19-year-old engineering undergraduate pursuing a B.Tech in Information Tec
 </p>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Balaji-R-05&color=red" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Balaji-R-05&color=blue" alt="Profile Views" />
 </div>
 
 <!---
