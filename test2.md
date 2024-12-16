@@ -26,17 +26,18 @@ I'm a 19-year-old engineering undergraduate pursuing a B.Tech in Information Tec
 ---
 
 <h3 align="center">🌱 Currently Learning</h3>
-<p align="center">
-- <b>Machine Learning Algorithms:</b> Introduction to Machine Learning<br>
-- <b>DSA (Python):</b> Solving problems on LeetCode, GFG, and Skillrack<br>
-- <b>Deep Learning:</b> Exploring neural networks, CNNs, and RNNs using TensorFlow and PyTorch<br>
-- <b>AI Ethics:</b> Understanding the ethical implications of AI and machine learning technologies<br>
-- <b>Cloud Computing:</b> Learning AWS and deploying models and applications in the cloud<br>
-- <b>React.js:</b> Building web applications with React and understanding front-end frameworks<br>
-- <b>Web Development:</b> Mastering HTML, CSS, JavaScript, and server-side development with Node.js and Django<br>
-- <b>Data Visualization:</b> Using tools like Tableau, Matplotlib, and Seaborn for data analysis and presentation<br>
-- <b>DevOps:</b> Understanding containerization with Docker and orchestration with Kubernetes<br>
-</p>
+
+<ul>
+  <li><b>Machine Learning Algorithms:</b> Deep diving into supervised and unsupervised learning algorithms, with a focus on practical implementation.</li>
+  <li><b>Data Structures and Algorithms (Python):</b> Solving complex problems on platforms like LeetCode, GFG, and Skillrack, improving problem-solving and coding skills.</li>
+  <li><b>Deep Learning & Neural Networks:</b> Understanding CNNs, RNNs, and GANs, and building models using frameworks like TensorFlow and PyTorch.</li>
+  <li><b>AI Ethics:</b> Gaining insight into the ethical implications and societal impacts of AI and automation.</li>
+  <li><b>Cloud Computing (AWS):</b> Learning cloud technologies to deploy scalable AI models and applications using AWS.</li>
+  <li><b>Full-Stack Web Development:</b> Building interactive web applications with React.js, Node.js, and integrating with databases.</li>
+  <li><b>Data Visualization:</b> Mastering data presentation tools like Tableau, Seaborn, and Matplotlib to transform complex data into actionable insights.</li>
+  <li><b>DevOps and Containerization:</b> Understanding Docker, Kubernetes, and CI/CD pipelines for efficient development and deployment.</li>
+  <li><b>Version Control (Git):</b> Becoming proficient in using Git for collaboration, managing code versions, and working on open-source projects.</li>
+</ul>
 
 
 ---
