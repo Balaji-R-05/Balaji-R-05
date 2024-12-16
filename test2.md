@@ -12,7 +12,7 @@ I'm a 19-year-old engineering undergraduate pursuing a B.Tech in Information Tec
 ## 🔧 Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,c,cpp,mysql,html,css,aws,&theme=dark&perline=20" />
+    <img src="https://skillicons.dev/icons?i=python,java,c,cpp,mysql,html,css,aws,linux&theme=dark&perline=20" />
   </a>
 </p>
 
