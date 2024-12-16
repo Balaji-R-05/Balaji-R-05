@@ -42,8 +42,6 @@ I'm a 19-year-old engineering undergraduate pursuing a B.Tech in Information Tec
 
 ---
 
-<h3 align="center">🚀 LeetCode Stats & Heatmap</h3>
-
 <div align="center">
   <img src="https://leetcode-stats.vercel.app/api?username=Balaji_R_0204&theme=dark" alt="LeetCode Stats" />
 </div>
