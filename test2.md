@@ -23,12 +23,12 @@ I'm a 19-year-old engineering undergraduate pursuing a B.Tech in Information Tec
 ### 📊 **Dinesh Karthick V's GitHub Stats**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dinesh-Karthick-V&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Balaji-R-05&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 </p>
 
 ---
 
 ### 🚀 **Most Used Languages**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dinesh-Karthick-V&layout=compact&langs_count=6&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Balaji-R-05&layout=compact&langs_count=6&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
