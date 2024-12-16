@@ -43,23 +43,6 @@ I'm a 19-year-old engineering undergraduate pursuing a B.Tech in Information Tec
 </p>
 
 
-## 🏆 Achievements
-## 📚 Publications
-
-<!--## Projects
-- Blood Donation Web Application:
-  - Created a web application to facilitate blood donations by connecting donors with recipients.
-  - Technologies: Python, Flask, MySQL, HTML, CSS, JavaScript
-  - Role: Full Stack Developer
-- AI-Powered Cybersecurity solution:
-  - Developed a real-time threat detection and automated response system with a user-friendly dashboard.
-  - Technologies: Python, TensorFlow, Apache Kafka, Snort, Wireshark, Flask, React
-  - Role: Project Lead
-- Secure and Decentralized Identity Verification using Blockchain:
-  - Developed a blockchain solution for secure and decentralized identity verification to reduce fraud in financial transactions.
-  - Technologies: Python, Hyperledger Fabric, MySQL
-  - Role: Lead Developer
- --> 
 ## 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Balaji-R-05&show_icons=true" alt="Balaji's GitHub stats" />
@@ -69,11 +52,6 @@ I'm a 19-year-old engineering undergraduate pursuing a B.Tech in Information Tec
 </p>
 
 ![](https://komarev.com/ghpvc/?username=Balaji-R-05&color=red)
-
-<!---
-Balaji-R-05/Balaji-R-05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
 
 <!-- Odin Project
