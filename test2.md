@@ -10,7 +10,7 @@ I'm a 19-year-old engineering undergraduate pursuing a B.Tech in Information Tec
 ![GitHub followers](https://img.shields.io/github/followers/Balaji-R-05?label=Follow&style=social) ![GitHub stars](https://img.shields.io/github/stars/Balaji-R-05?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&style=social)
 
 ## 🔧 Skills
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,c,java,mysql,html,css,aws&theme=dark&perline=7" />
   </a>
