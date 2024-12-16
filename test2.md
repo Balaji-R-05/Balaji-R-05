@@ -40,8 +40,6 @@ I'm a 19-year-old engineering undergraduate pursuing a B.Tech in Information Tec
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Balaji-R-05&layout=compact&langs_count=6&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
----
-
 <div align="center">
   <img src="https://leetcode-stats.vercel.app/api?username=Balaji_R_0204&theme=dark" alt="LeetCode Stats" />
 </div>
