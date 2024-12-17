@@ -1,9 +1,9 @@
 # Python
  * Joy of Computing with Python (NPTEL)
- * 100 Days of Code (by Angela Yu)
+ * 100 Days of Code (by Angela Yu)  (Ongoing)
 
 # JAVA
- * Programming in JAVA (NPTEL) (Ongoing)
+ * Programming in JAVA (NPTEL) 
    
 <!--# ML
  * Introduction to Machine Learning (NPTEL) ()
