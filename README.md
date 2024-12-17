@@ -43,7 +43,7 @@ I'm a 19-year-old engineering undergraduate pursuing a B.Tech in Information Tec
 <h3 align="center">📊 GitHub & LeetCode Stats</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Balaji-R-05&show_icons=true&theme=radical&hide_border=true" alt="Balaji's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Balaji-R-05&layout=compact&langs_count=6&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Balaji-R-05&layout=compact&langs_count=6&hide_border=true" alt="Top Languages" />
 </p>
 <div align="center">
   <img src="https://leetcode-stats.vercel.app/api?username=Balaji_R_0204&theme=dark" alt="LeetCode Stats" />
