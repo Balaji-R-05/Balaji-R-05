@@ -10,7 +10,7 @@ I'm a 19-year-old engineering undergraduate pursuing a B.Tech in Information Tec
 </p>
 
 <p align="center">
-    <img src="https://img.shields.io/github/followers/Balaji-R-05?label=Follow&style=social" alt="GitHub followers" />
+    <img src="https://img.shields.io/github/followers/Balaji-R-05?label=Follow&style=light alt="GitHub followers" />
     <img src="https://img.shields.io/github/stars/Balaji-R-05?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&style=social" alt="GitHub stars" />
 </p>
 
