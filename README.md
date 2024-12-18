@@ -25,7 +25,7 @@ I'm a 19-year-old engineering undergraduate pursuing a B.Tech in Information Tec
 
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=python,java,c,cpp,go,mysql,mongodb,html,css,aws,linux,git,matlab,sklearn,tensorflow,postman,vscode,numpy,pandas,matplotlib&titles=true&theme=light" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=python,java,c,cpp,go,mysql,mongodb,html,css,aws,linux,git,matlab,sklearn,tensorflow,postman,vscode,numpy,pandas,matplotlib&titles=true&theme=dark" />
   </a>
 </p
 
