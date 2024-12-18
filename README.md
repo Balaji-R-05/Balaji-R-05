@@ -20,13 +20,12 @@ I'm a 19-year-old engineering undergraduate pursuing a B.Tech in Information Tec
 <p align="center">
   <a href="https://skillicons.dev">
     <!--<img src="https://skillicons.dev/icons?i=python,java,c,cpp,go,mysql,mongodb,html,css,aws,linux,git,matlab,sklearn,tensorflow,postman&theme=dark&perline=14" />-->
-    <img src="https://skillicons.dev/icons?i=python,java,c,cpp,go,mysql,mongodb,html,css,aws,linux,git,matlab,sklearn,tensorflow,postman,vscode,numpy&theme=dark&perline=14" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=python,java,c,cpp,go,mysql,mongodb,html,css,aws,linux,git,matlab,sklearn,tensorflow,postman,vscode,numpy" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=python,java,c,cpp,go,mysql,mongodb,html,css,aws,linux,git,matlab,sklearn,tensorflow,postman,vscode,numpy,pandas,matplotlib," />
   </a>
 </p
 
