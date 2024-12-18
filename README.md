@@ -20,7 +20,7 @@ I'm a 19-year-old engineering undergraduate pursuing a B.Tech in Information Tec
 <p align="center">
   <a href="https://skillicons.dev">
     <!--<img src="https://skillicons.dev/icons?i=python,java,c,cpp,go,mysql,mongodb,html,css,aws,linux,git,matlab,sklearn,tensorflow,postman&theme=dark&perline=14" />-->
-    <img src="https://skillicons.dev/icons?i=python,java,c,cpp,go,mysql,mongodb,html,css,aws,linux,git,matlab,sklearn,tensorflow,postman,vscode,powerbi&theme=dark&perline=14" />
+    <img src="https://skillicons.dev/icons?i=python,java,c,cpp,go,mysql,mongodb,html,css,aws,linux,git,matlab,sklearn,tensorflow,postman,vscode,numpy&theme=dark&perline=14" />
   </a>
 </p>
 
