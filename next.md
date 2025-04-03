@@ -30,9 +30,18 @@ class Developer:
 me = Developer()
 print(me.greet())
 ```
-<p>I'm passionate about building scalable applications and exploring cutting-edge AI technologies. Check out my <a href="#" target="_blank"><strong>portfolio</strong></a> to see my work in action!</p>
+
+<p>I'm passionate about building scalable applications and exploring cutting-edge AI technologies. Check out my portfolio to see my work in action!</p>
 
 <p align="center">
     <img src="https://img.shields.io/github/followers/Balaji-R-05?label=Follow&style=light" alt="GitHub followers" />
     <img src="https://img.shields.io/github/stars/Balaji-R-05?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&style=social" alt="GitHub stars" />
 </p>
+
+<!-- Skill section -->
+<h2>🔧 Skills</h3>
+<p>
+    <img src="https://skillicons.dev/icons?i=python,java,mysql,html,css,linux,git,sklearn,tensorflow,vscode&theme=dark&perline=14" />
+</p>
+</p>
+<!-- c,cpp,rust,go,mongodb,js,aws,azure,matlab,postman -->
