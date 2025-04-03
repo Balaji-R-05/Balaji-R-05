@@ -31,17 +31,37 @@ me = Developer()
 print(me.greet())
 ```
 
-<p>I'm passionate about building scalable applications and exploring cutting-edge AI technologies. Check out my portfolio to see my work in action!</p>
+<p>I'm passionate about building scalable applications and exploring cutting-edge AI technologies. Check out my <a href="#" target="_blank"><strong>Portfolio</strong></a> to see my work in action!</p>
 
-<p align="center">
+
+<div align="center">
     <img src="https://img.shields.io/github/followers/Balaji-R-05?label=Follow&style=light" alt="GitHub followers" />
     <img src="https://img.shields.io/github/stars/Balaji-R-05?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&style=social" alt="GitHub stars" />
-</p>
+    <img src="https://komarev.com/ghpvc/?username=Balaji-R-05&color=blue" alt="Profile Views" />
+</div>
 
 <!-- Skill section -->
 <h2>🔧 Skills</h3>
 <p>
-    <img src="https://skillicons.dev/icons?i=python,java,mysql,html,css,linux,git,sklearn,tensorflow,vscode&theme=dark&perline=14" />
+    <img src="https://skillicons.dev/icons?i=python,java,mysql,html,css,js,react,linux,git,sklearn,tensorflow,vscode&theme=dark&perline=14" />
 </p>
 </p>
 <!-- c,cpp,rust,go,mongodb,js,aws,azure,matlab,postman -->
+
+<div align="center">
+  <h2>📊 GitHub Statistics</h2>
+  
+  <p>
+    <!-- GitHub Stats Card -->
+    <img src="https://github-readme-stats.vercel.app/api/?username=Balaji-R-05&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Stats" width="49%" height="300px" />
+    <!-- Top Languages Card -->
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Balaji-R-05&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Languages" width="49%" height="300px" />
+  </p>
+  
+  <!-- GitHub Streak Stats 
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Balaji-R-05&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
+  -->
+  <!-- LeetCode Stats with Custom Theme -->
+  <h2>⚡ LeetCode Statistics</h2>
+  <img src="https://leetcard.jacoblin.cool/Balaji_R_0204?theme=nord&font=Baloo%202&ext=heatmap" alt="LeetCode Stats" width="50%" height="300px" />
+</div>
