@@ -58,9 +58,9 @@ print(me.greet())
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Balaji-R-05&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Languages" width="49%" height="300px" />
   </p>
   
-  <!-- GitHub Streak Stats 
+   <!--GitHub Streak Stats--> 
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Balaji-R-05&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
-  -->
+  
   <!-- LeetCode Stats with Custom Theme -->
   <h2>⚡ LeetCode Statistics</h2>
   <img src="https://leetcard.jacoblin.cool/Balaji_R_0204?theme=nord&font=Baloo%202&ext=heatmap" alt="LeetCode Stats" width="50%" height="300px" />
