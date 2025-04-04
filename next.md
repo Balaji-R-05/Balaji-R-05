@@ -59,7 +59,7 @@ print(me.greet())
   </p>
   
    <!--GitHub Streak Stats--> 
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Balaji-R-05&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Balaji-R-05&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" width="70%" />
   
   <!-- LeetCode Stats with Custom Theme -->
   <h2>⚡ LeetCode Statistics</h2>
