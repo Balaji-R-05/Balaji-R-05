@@ -46,4 +46,26 @@ print(me.greet())
     <img src="https://skillicons.dev/icons?i=python,java,rust,mysql,mongodb,html,css,js,react,linux,git,aws,firebase,sklearn,tensorflow,vscode&theme=dark&perline=14" />
 </p>
 </p>
-<!-- c,cpp,go,aws,azure,matlab,postman -->
+
+
+
+
+
+<h2>🤝 Connect with Me</h3>
+<p align="center">
+  <a href="www.linkedin.com/in/balaji-ramu05" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Balaji-R-05" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:balajiramu05@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://x.com/r_balaji242005?t=RVPlRFLm9ajmZ5FL_65AHg&s=08" target="_blank">
+    <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
+  <a href="https://www.instagram.com/r_balaji_24?igsh=MTRqNW0yZm15Z2RlNQ==" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
