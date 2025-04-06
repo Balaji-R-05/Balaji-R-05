@@ -43,7 +43,7 @@ print(me.greet())
 <!-- Skill section -->
 <h2>🔧 Skills</h3>
 <p>
-    <img src="https://skillicons.dev/icons?i=python,java,rust,mysql,html,css,js,react,linux,git,sklearn,tensorflow,vscode&theme=dark&perline=14" />
+    <img src="https://skillicons.dev/icons?i=python,java,rust,mysql,mongodb,html,css,js,react,linux,git,sklearn,tensorflow,vscode&theme=dark&perline=14" />
 </p>
 </p>
 <!-- c,cpp,rust,go,mongodb,js,aws,azure,matlab,postman -->
