@@ -1,6 +1,6 @@
 <!-- Header with Dynamic Background -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Balaji%20R&fontSize=50&fontAlignY=40&animation=fadeIn" width="100%" height=100px />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Balaji%20R&fontSize=50&fontAlignY=40&animation=fadeIn" width="100%" height=75px />
 </div>
 
 <h3 align="center">Coding-Dragon | Machine Learning Engineer | AI Enthusiast</h3>
@@ -8,7 +8,7 @@
 <!-- Typing SVG with Enhanced Animation -->
 <p align="center">
   <a href="#">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FFAF&center=true&vCenter=true&width=600&lines=Building+Intelligent+Solutions;Full-Stack+Development;Machine+Learning+%26+Deep+Learning;Open+to+Exciting+Opportunities!" alt="Typing SVG" height=100px />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FFAF&center=true&vCenter=true&width=600&lines=Building+Intelligent+Solutions;Full-Stack+Development;Machine+Learning+%26+Deep+Learning;Open+to+Exciting+Opportunities!" alt="Typing SVG" height=75px />
   </a>
 </p>
 
