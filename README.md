@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Balaji%20R&fontSize=50&fontAlignY=40&animation=fadeIn" width="100%" height=75px />
 </div>
 
-<h3 align="center">Coding-Dragon | Machine Learning Engineer | AI Enthusiast</h3>
+<h3 align="center"> Machine Learning Engineer | AI Enthusiast | Cyber Explorer</h3>
 
 <!-- Typing SVG with Enhanced Animation -->
 <p align="center">
