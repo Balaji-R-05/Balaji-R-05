@@ -31,17 +31,20 @@ print(me.greet())
 </div>
 
 ## 💻 **Languages and Tools:**
+
 <p>
-    <img src="https://skillicons.dev/icons?i=python,java,mysql,mongodb,html,css,js,react,nodejs,linux,git,aws,firebase,sklearn,tensorflow,vscode&theme=dark&perline=14" />
+    <img src="https://skillicons.dev/icons?i=python,java,mysql,mongodb,html,css,js,ts,react,nodejs,expressjs,linux,git,aws,firebase,flask,sklearn,tensorflow,vscode,docker&theme=dark&perline=14" />
 </p>
 
 ## **📊 GitHub Stats:**
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Balaji-R-05&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=true" height="180" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Balaji-R-05&theme=highcontrast&hide_border=false" height="180" />
 </div>
 
 ## **🌐 Connect With Me:**
+
 <p align="center">
   <a href="www.linkedin.com/in/balaji-ramu05" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -52,6 +55,9 @@ print(me.greet())
   <a href="https://github.com/Balaji-R-05" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  <a href="https://leetcode.com/u/Balaji_R_0204">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+  </a>
   <!-- <a href="https://twitter.com/yourusername" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
@@ -59,17 +65,6 @@ print(me.greet())
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Portfolio" />
   </a> -->
 </p>
-
-
-
-
-
-
-
-
-
-
-
 
 
 
