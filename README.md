@@ -41,6 +41,12 @@ print(me.greet())
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Balaji-R-05&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=true" height="180" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Balaji-R-05&theme=highcontrast&hide_border=false" height="180" />
+  <img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Balaji-R-05&layout=compact&theme=highcontrast&hide_border=false&hide=Jupyter%20Notebook&langs_count=8" 
+  height="150"
+  width="307"
+  alt="Top Languages used by Balaji-R-05"
+/>
 </div>
 
 ## **🌐 Connect With Me:**
@@ -58,12 +64,9 @@ print(me.greet())
   <a href="https://leetcode.com/u/Balaji_R_0204">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
   </a>
-  <!-- <a href="https://twitter.com/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  <a href="https://balaji-devfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://balaji-portfolio-link.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Portfolio" />
-  </a> -->
 </p>
 
 
