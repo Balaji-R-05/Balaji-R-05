@@ -39,15 +39,15 @@ print(me.greet())
 ## **📊 GitHub Stats:**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Balaji-R-05&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=true" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Balaji-R-05&theme=highcontrast&hide_border=false" height="180" />
-    <br/>
-  <img 
+      <img 
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=Balaji-R-05&layout=compact&theme=highcontrast&hide_border=false&hide=Jupyter%20Notebook&langs_count=8" 
-  height="150"
+  height="180"
   width="307"
   alt="Top Languages used by Balaji-R-05"
 />
+  <img src="https://github-readme-stats.vercel.app/api?username=Balaji-R-05&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=true" height="180" />
+    <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Balaji-R-05&theme=highcontrast&hide_border=false" height="180" />
 </div>
 
 ## **🌐 Connect With Me:**
