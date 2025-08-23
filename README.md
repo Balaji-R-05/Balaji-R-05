@@ -33,7 +33,7 @@ print(me.greet())
 ## 💻 **Languages and Tools:**
 
 <p>
-    <img src="https://skillicons.dev/icons?i=python,java,mysql,mongodb,html,css,js,ts,react,nodejs,expressjs,linux,git,aws,firebase,flask,sklearn,tensorflow,vscode,docker&theme=dark&perline=14" />
+    <img src="https://skillicons.dev/icons?i=python,java,mysql,mongodb,html,css,js,react,nodejs,expressjs,linux,git,firebase,sklearn,vscode,docker&theme=dark&perline=14" />
 </p>
 
 ## **📊 GitHub Stats:**
