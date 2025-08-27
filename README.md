@@ -13,7 +13,7 @@ class Developer:
         self.name = "Balaji R"
         self.education = "B.Tech IT @ St. Joseph's Institute of Technology, Chennai"
         self.interests = ["Full-Stack Development", "AI & Machine Learning", "Cloud Computing"]
-        self.currently_learning = ["Advanced ML Algorithms", "DevOps", "Cloud-Native Applications"]
+        self.currently_learning = ["Advanced ML Algorithms", "DevOps", "Building AI Applications"]
 
     def greet(self):
         return "Thanks for visiting my profile! Let's connect and build something amazing together."
@@ -33,7 +33,7 @@ print(me.greet())
 ## 💻 **Languages and Tools:**
 
 <p>
-    <img src="https://skillicons.dev/icons?i=python,java,mysql,mongodb,html,css,js,react,nodejs,expressjs,linux,git,firebase,sklearn,vscode,docker&theme=dark&perline=14" />
+    <img src="https://skillicons.dev/icons?i=python,java,mysql,mongodb,postgres,html,css,js,ts,react,nodejs,expressjs,tailwind,nextjs,linux,git,sklearn,docker,azure,aws,rust&theme=dark&perline=14" />
 </p>
 
 ## **📊 GitHub Stats:**
