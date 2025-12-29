@@ -1,76 +1,103 @@
 <div align="center">
     <img src="./assets/header.png" alt="Banner Image" width="100%"/>
 </div>
+
 <h1 align='center'>
-  Hi there, <img style="vertical-align: -30%" src="https://media.giphy.com/media/KGMzZvWa5su2O5LCVR/giphy.gif" width="50" height="50"> I'm Balaji R
+  Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I'm Balaji R
 </h1>
 
-## **🚀 About Me**
+<h3 align="center">
+  Backend Developer • AI/ML Enthusiast • Cloud & DevOps Explorer
+</h3>
+
+<p align="center">
+  <a href="https://balaji-devfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-brightgreen?style=for-the-badge&logo=vercel" alt="Portfolio"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Balaji-R-05&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
+</p>
+
+<h2 align="center">🚀 About Me</h2>
 
 ```python
 class Developer:
     def __init__(self):
         self.name = "Balaji R"
+        self.role = "Backend Developer & AI Enthusiast"
         self.education = "B.Tech IT @ St. Joseph's Institute of Technology, Chennai"
-        self.interests = ["Full-Stack Development", "AI & Machine Learning", "Cloud Computing"]
-        self.currently_learning = ["Advanced ML Algorithms", "DevOps", "Building AI Applications"]
-
-    def greet(self):
-        return "Thanks for visiting my profile! Let's connect and build something amazing together."
+        self.location = "Chennai, India"
+        self.current_focus = [
+            "Building scalable backend systems",
+            "Exploring advanced ML algorithms",
+            "Mastering cloud-native architectures",
+            "Contributing to open-source projects"
+        ]
+        
+    def say_hi(self):
+        print("Thanks for dropping by! Let's connect and build something amazing together 🚀")
 
 me = Developer()
-print(me.greet())
+me.say_hi()
 ```
 
-<p>I'm passionate about building scalable applications and exploring cutting-edge AI technologies. Check out my <a href="#" target="_blank"><strong>Portfolio</strong></a> to see my work in action!</p>
+<!-- ## 💻 **Languages and Tools:** -->
+<h2 align="center">Languages and Tools</h2>
 
 <div align="center">
-    <img src="https://img.shields.io/github/followers/Balaji-R-05?label=Follow&style=light" alt="GitHub followers" />
-    <img src="https://img.shields.io/github/stars/Balaji-R-05?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&style=social" alt="GitHub stars" />
-    <img src="https://komarev.com/ghpvc/?username=Balaji-R-05&color=blue" alt="Profile Views" />
+<img src="https://skillicons.dev/icons?i=python,java,go,mysql,mongodb,postgres,redis,html,css,js,ts,react,nodejs,expressjs,tailwind,nextjs,spring,django,fastapi,linux,git,sklearn,docker,kubernetes,azure,aws,grafana&theme=dark&perline=9" />
 </div>
 
-## 💻 **Languages and Tools:**
 
-<p>
-    <img src="https://skillicons.dev/icons?i=python,java,mysql,mongodb,postgres,html,css,js,ts,react,nodejs,expressjs,tailwind,nextjs,linux,git,sklearn,docker,azure,aws,rust&theme=dark&perline=14" />
-</p>
 
-## **📊 GitHub Stats:**
+
+
+
+
+<h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
-      <img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Balaji-R-05&layout=compact&theme=highcontrast&hide_border=false&hide=Jupyter%20Notebook&langs_count=8" 
-  height="180"
-  width="307"
-  alt="Top Languages used by Balaji-R-05"
-/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Balaji-R-05&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=true" height="180" />
-    <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Balaji-R-05&theme=highcontrast&hide_border=false" height="180" />
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Balaji-R-05&theme=github_dark" width="80%"/>
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Balaji-R-05&theme=github_dark" width="40%"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Balaji-R-05&theme=github_dark&utcOffset=5.5" width="40%"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Balaji-R-05&theme=highcontrast&hide_border=true&border_radius=8" width="80%"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Balaji-R-05&bg_color=0d1117&color=ffffff&line=40c463&point=fff7e0&area=true&hide_border=true&radius=8" width="80%"/>
+
 </div>
 
-## **🌐 Connect With Me:**
+
+
+
+<h2 align="center">🤝 Connect With Me</h2>
 
 <p align="center">
-  <a href="www.linkedin.com/in/balaji-ramu05" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/balaji-ramu05" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:balajiramu05@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:balajiramu05@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://github.com/Balaji-R-05" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://leetcode.com/u/Balaji_R_0204">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+  <a href="https://leetcode.com/u/Balaji_R_0204" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
   </a>
   <a href="https://balaji-devfolio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
 
+<div align="center">
+  
+<h3>💭 Quote of the Day</h3>
+  
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="80%"/>
 
+</div>
 
 
 
