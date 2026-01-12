@@ -62,7 +62,7 @@ me.say_hi()
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Balaji-R-05&theme=github_dark" width="40%"/>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Balaji-R-05&theme=github_dark&utcOffset=5.5" width="40%"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Balaji-R-05&theme=highcontrast&hide_border=true&border_radius=8" width="80%"/>
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Balaji-R-05&theme=highcontrast&hide_border=true&border_radius=8" width="80%"/> -->
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Balaji-R-05&bg_color=0d1117&color=ffffff&line=40c463&point=fff7e0&area=true&hide_border=true&radius=8" width="80%"/>
 
