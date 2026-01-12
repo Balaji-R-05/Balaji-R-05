@@ -44,7 +44,7 @@ me.say_hi()
 <h2 align="center">Languages and Tools</h2>
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,java,go,mysql,mongodb,postgres,redis,html,css,js,ts,react,nodejs,expressjs,tailwind,nextjs,spring,django,fastapi,linux,git,sklearn,docker,kubernetes,azure,aws,grafana&theme=dark&perline=9" />
+<img src="https://skillicons.dev/icons?i=python,java,go,mysql,mongodb,postgres,redis,html,css,js,ts,react,nodejs,expressjs,tailwind,nextjs,spring,django,fastapi,linux,git,sklearn,docker,kubernetes,azure,aws,grafana,postman&theme=dark&perline=9" />
 </div>
 
 
