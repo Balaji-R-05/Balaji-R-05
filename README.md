@@ -27,10 +27,10 @@ class Developer:
         self.education = "B.Tech IT @ St. Joseph's Institute of Technology, Chennai"
         self.location = "Chennai, India"
         self.current_focus = [
-            "Building scalable backend systems",
-            "Exploring advanced ML algorithms",
-            "Mastering cloud-native architectures",
-            "Contributing to open-source projects"
+            "Mastering System Design & Backend Engineering",
+            "Exploring AI/ML & Advanced Algorithms",
+            "Architecting Cloud-Native Solutions",
+            "Contributing to Open Source"
         ]
         
     def say_hi(self):
