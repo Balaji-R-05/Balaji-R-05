@@ -49,10 +49,8 @@ me.say_hi()
 
 <h2 align="center">🛠️ Languages and Tools</h2>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,mysql,mongodb,postgres,redis,html,css,js,ts,react,nodejs,expressjs,tailwind,spring,django,fastapi,linux,git,sklearn,docker,azure,aws,grafana,postman&theme=dark"/>
-  <!-- &perline=9 -->
+  <img src="https://skillicons.dev/icons?i=python,java,mysql,mongodb,postgres,redis,html,css,js,ts,react,nodejs,expressjs,tailwind,spring,django,fastapi,linux,git,sklearn,docker,azure,aws,grafana,postman&theme=dark&perline=12"/>
 </div>
-<br/>
 <br/>
 
 <h2 align="center">🏆 Highlights</h2>
@@ -83,7 +81,6 @@ me.say_hi()
   </tr>
 </table>
 <br/>
-<br/>
 
 <h2 align="center">📊 GitHub Analytics</h2>
 
@@ -98,7 +95,6 @@ me.say_hi()
   <img src="https://streak-stats.demolab.com/?user=Balaji-R-05&theme=highcontrast&hide_border=true&border_radius=8" width="80%"/>
 
 </div>
-<br/>
 <br/>
 
 <h2 align="center">🤝 Connect With Me</h2>
@@ -130,7 +126,6 @@ me.say_hi()
   </a>
 
 </p>
-<br/>
 <br/>
 
 <div align="center">
