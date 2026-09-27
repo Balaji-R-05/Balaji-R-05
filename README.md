@@ -17,6 +17,8 @@ I'm Balaji R
   </a>
   <img src="https://komarev.com/ghpvc/?username=Balaji-R-05&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
 </p>
+<br/>
+<br/>
 
 <h2 align="center">🚀 About Me</h2>
 
@@ -42,11 +44,16 @@ class Developer:
 me = Developer()
 me.say_hi()
 ```
+<br/>
+<br/>
 
 <h2 align="center">🛠️ Languages and Tools</h2>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,go,mysql,mongodb,postgres,redis,html,css,js,ts,react,nodejs,expressjs,tailwind,nextjs,spring,django,fastapi,linux,git,sklearn,docker,kubernetes,azure,aws,grafana,postman&theme=dark&perline=9"/>
+  <img src="https://skillicons.dev/icons?i=python,java,go,mysql,mongodb,postgres,redis,html,css,js,ts,react,nodejs,expressjs,tailwind,nextjs,spring,django,fastapi,linux,git,sklearn,docker,kubernetes,azure,aws,grafana,postman&theme=dark"/>
+  <!-- &perline=9 -->
 </div>
+<br/>
+<br/>
 
 <h2 align="center">🏆 Highlights</h2>
 
@@ -65,7 +72,8 @@ me.say_hi()
     <td align="center">
       <img src="https://img.icons8.com/fluency/96/prize.png" width="60" alt="Finalist"/><br/>
       <b>🏅 Finalist</b><br/>
-      <sub>VISA Hackathon • SVCE Blueprints 2026</sub>
+      <sub>VISA Hackathon</sub><br/>
+      <sub>SVCE Blueprints 2026</sub>
     </td>
     <td align="center">
       <img src="https://img.icons8.com/fluency/96/graduation-cap.png" width="60" alt="Academic Topper"/><br/>
@@ -74,6 +82,8 @@ me.say_hi()
     </td>
   </tr>
 </table>
+<br/>
+<br/>
 
 <h2 align="center">📊 GitHub Analytics</h2>
 
@@ -88,32 +98,40 @@ me.say_hi()
   <img src="https://streak-stats.demolab.com/?user=Balaji-R-05&theme=highcontrast&hide_border=true&border_radius=8" width="80%"/>
 
 </div>
+<br/>
+<br/>
 
 <h2 align="center">🤝 Connect With Me</h2>
 
 <p align="center">
 
   <a href="https://www.linkedin.com/in/balaji-ramu05" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.icons8.com/fluency/64/linkedin.png" width="50" alt="LinkedIn"/>
   </a>
-
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://x.com/r_balaji242005" target="_blank">
+    <img src="https://img.icons8.com/fluency/64/twitterx.png" width="50" alt="X"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="mailto:balajiramu05@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.icons8.com/fluency/64/gmail-new.png" width="50" alt="Gmail"/>
   </a>
-
+  &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Balaji-R-05" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.icons8.com/fluency/64/github.png" width="50" alt="GitHub"/>
   </a>
-
+  &nbsp;&nbsp;&nbsp;
   <a href="https://leetcode.com/u/Balaji_R_0204" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+    <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="50" alt="LeetCode"/>
   </a>
-
+  &nbsp;&nbsp;&nbsp;
   <a href="https://balaji-devfolio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.icons8.com/fluency/64/domain.png" width="50" alt="Portfolio"/>
   </a>
 
 </p>
+<br/>
+<br/>
 
 <div align="center">
 
