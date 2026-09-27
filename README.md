@@ -18,8 +18,6 @@ I'm Balaji R
   <img src="https://komarev.com/ghpvc/?username=Balaji-R-05&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
 </p>
 
----
-
 <h2 align="center">🚀 About Me</h2>
 
 ```python
@@ -45,46 +43,37 @@ me = Developer()
 me.say_hi()
 ```
 
----
-
 <h2 align="center">🛠️ Languages and Tools</h2>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,java,go,mysql,mongodb,postgres,redis,html,css,js,ts,react,nodejs,expressjs,tailwind,nextjs,spring,django,fastapi,linux,git,sklearn,docker,kubernetes,azure,aws,grafana,postman&theme=dark&perline=9"/>
 </div>
 
----
-
 <h2 align="center">🏆 Highlights</h2>
 
-<div style="display: flex; flex-direction: row; justify-content: center; align-items: center; flex-wrap: wrap; gap: 32px;">
-
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <img src="https://img.icons8.com/fluency/96/trophy.png" width="60" alt="1st Place"/>
-    <b>🥇 1st Place</b>
-    <sub>Jerusalem College Hackathon</sub>
-  </div>
-
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <img src="https://img.icons8.com/fluency/96/medal.png" width="60" alt="2nd Place"/>
-    <b>🥈 2nd Place</b>
-    <sub>SIMATS Hackathon</sub>
-  </div>
-
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <img src="https://img.icons8.com/fluency/96/prize.png" width="60" alt="Finalist"/>
-    <b>🏅 Finalist</b>
-    <sub>VISA Hackathon • SVCE Blueprints 2026</sub>
-  </div>
-
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <img src="https://img.icons8.com/fluency/96/graduation-cap.png" width="60" alt="Academic Topper"/>
-    <b>🎓 Academic Topper</b>
-    <sub>CGPA: 8.99</sub>
-  </div>
-
-</div>
-
----
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://img.icons8.com/fluency/96/trophy.png" width="60" alt="1st Place"/><br/>
+      <b>🥇 1st Place</b><br/>
+      <sub>Jerusalem College Hackathon</sub>
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/fluency/96/medal.png" width="60" alt="2nd Place"/><br/>
+      <b>🥈 2nd Place</b><br/>
+      <sub>SIMATS Hackathon</sub>
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/fluency/96/prize.png" width="60" alt="Finalist"/><br/>
+      <b>🏅 Finalist</b><br/>
+      <sub>VISA Hackathon • SVCE Blueprints 2026</sub>
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/fluency/96/graduation-cap.png" width="60" alt="Academic Topper"/><br/>
+      <b>🎓 Academic Topper</b><br/>
+      <sub>CGPA: 8.99</sub>
+    </td>
+  </tr>
+</table>
 
 <h2 align="center">📊 GitHub Analytics</h2>
 
@@ -99,8 +88,6 @@ me.say_hi()
   <img src="https://streak-stats.demolab.com/?user=Balaji-R-05&theme=highcontrast&hide_border=true&border_radius=8" width="80%"/>
 
 </div>
-
----
 
 <h2 align="center">🤝 Connect With Me</h2>
 
@@ -128,8 +115,6 @@ me.say_hi()
 
 </p>
 
----
-
 <div align="center">
 
 <h3>💭 Quote of the Day</h3>
@@ -137,8 +122,6 @@ me.say_hi()
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="80%"/>
 
 </div>
-
----
 
 <!---
 Balaji-R-05/Balaji-R-05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
