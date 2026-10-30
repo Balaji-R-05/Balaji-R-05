@@ -13,9 +13,9 @@ I'm Balaji R
 
 <p align="center">
   <a href="https://balaji-devfolio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-brightgreen?style=for-the-badge&logo=vercel" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-39D353?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Balaji-R-05&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Balaji-R-05&color=39D353&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
 </p>
 <br/>
 <br/>
@@ -49,7 +49,7 @@ me.say_hi()
 
 <h2 align="center">🛠️ Languages and Tools</h2>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,mysql,mongodb,postgres,redis,html,css,js,ts,react,nodejs,expressjs,tailwind,spring,django,fastapi,linux,git,sklearn,docker,azure,aws,grafana,postman&theme=dark&perline=12"/>
+  <img src="https://skillicons.dev/icons?i=python,java,mysql,mongodb,postgres,redis,html,css,js,ts,react,nodejs,expressjs,tailwind,spring,django,fastapi,linux,git,sklearn,docker,azure,aws,grafana&theme=dark&perline=12"/>
 </div>
 <br/>
 
@@ -70,12 +70,12 @@ me.say_hi()
     <td align="center">
       <img src="https://img.icons8.com/fluency/96/prize.png" width="60" alt="Finalist"/><br/>
       <b>🏅 Finalist</b><br/>
-      <sub>VISA Hackathon</sub><br/>
+      <sub>VISA Hackathon 2026</sub><br/>
       <sub>SVCE Blueprints 2026</sub>
     </td>
     <td align="center">
       <img src="https://img.icons8.com/fluency/96/graduation-cap.png" width="60" alt="Academic Topper"/><br/>
-      <b>🎓 Academic Topper</b><br/>
+      <b>🎓 Branch Topper</b><br/>
       <sub>CGPA: 8.99</sub>
     </td>
   </tr>
@@ -100,31 +100,15 @@ me.say_hi()
 <h2 align="center">🤝 Connect With Me</h2>
 
 <p align="center">
-
-  <a href="https://www.linkedin.com/in/balaji-ramu05" target="_blank">
-    <img src="https://img.icons8.com/fluency/64/linkedin.png" width="50" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://x.com/r_balaji242005" target="_blank">
-    <img src="https://img.icons8.com/fluency/64/twitterx.png" width="50" alt="X"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:balajiramu05@gmail.com">
-    <img src="https://img.icons8.com/fluency/64/gmail-new.png" width="50" alt="Gmail"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/Balaji-R-05" target="_blank">
-    <img src="https://img.icons8.com/fluency/64/github.png" width="50" alt="GitHub"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://leetcode.com/u/Balaji_R_0204" target="_blank">
-    <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="50" alt="LeetCode"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://balaji-devfolio.vercel.app/" target="_blank">
-    <img src="https://img.icons8.com/fluency/64/domain.png" width="50" alt="Portfolio"/>
-  </a>
-
+  <a href="https://www.linkedin.com/in/balaji-ramu05" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="38" height="38" alt="LinkedIn"/></a>
+  &nbsp;&nbsp;
+  <a href="https://x.com/r_balaji242005" target="_blank"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/x/ffffff"><img src="https://cdn.simpleicons.org/x/000000" width="38" height="38" alt="X"/></picture></a>
+  &nbsp;&nbsp;
+  <a href="mailto:balajiramu05@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="38" height="38" alt="Gmail"/></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Balaji-R-05" target="_blank"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/ffffff"><img src="https://cdn.simpleicons.org/github/181717" width="38" height="38" alt="GitHub"/></picture></a>
+  &nbsp;&nbsp;
+  <a href="https://leetcode.com/u/Balaji_R_0204" target="_blank"><img src="https://cdn.simpleicons.org/leetcode/FFA116" width="38" height="38" alt="LeetCode"/></a>
 </p>
 <br/>
 
